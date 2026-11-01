@@ -14,3 +14,4 @@ Excel (COUNTIF, PivotTables, charts) and Tableau Public
 ## Files
 - Netflix Excel workbook with the analysis
 - Executive Business Insight Report
+- https://public.tableau.com/app/profile/arshiya.ahmed3987/viz/Book1_17933163207830/Dashboard1
